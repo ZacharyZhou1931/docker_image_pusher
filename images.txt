@@ -1,2 +1,2 @@
-teslamate-org/teslamate
+dhuar/teslamate:latest
 grafana
